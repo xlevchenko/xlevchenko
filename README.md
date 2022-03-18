@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**xlevchenko/xlevchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oleksii from Ukraine 🇺🇦, and I learning iOS development more than one year. I really enjoy learning languages and frameworks like Swift and SwiftUI. I study new technologies, improve my skills and develop app🔥.
 
-Here are some ideas to get you started:
+### Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Basics of the Swift language and documentation.
+- Basic Git skills.
+- Write an interface, using storyboard, xib, and code.
+- Using Google, StackOverflow and Apple Documentation.
+
+##
+I'm looking for job, where I can study new technologies, improve my skills and develop app. My main purpose is find a great company, where I'll grow such as developer, and also do all tasks, which allow company grow with me :)
+- 📫 How to reach me: realcarter50@gmail.com
