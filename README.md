@@ -11,4 +11,5 @@ I'm Oleksii from Ukraine 🇺🇦, and I learning iOS development more than one 
 
 ##
 I'm looking for job, where I can study new technologies, improve my skills and develop app. My main purpose is find a great company, where I'll grow such as developer, and also do all tasks, which allow company grow with me :)
+- 👨🏻‍💻 Resume: https://bit.ly/3ilGFrO
 - 📫 How to reach me: realcarter50@gmail.com
