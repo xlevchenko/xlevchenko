@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm Oleksii from Ukraine 🇺🇦. I learning iOS development. 
+I'm iOS Developer. 
 Open to work and new opportunities!
 
 - 📫 Email: second.levchenko@gmail.com
