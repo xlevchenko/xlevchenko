@@ -1,7 +1,4 @@
 #### Hi there 👋
 
-I'm iOS Developer. 
-Open to work and new opportunities!
-
-- 📫 Email: second.levchenko@gmail.com
-- ✉️ Telegram: https://t.me/ilevchenko
+### iOS Developer | Actively seeking new opportunities
+- 🌐 **Portfolio**: [www.levchenko.cc](https://levchenko.cc)
